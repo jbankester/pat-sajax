@@ -2,7 +2,7 @@
   "name": "pat-sajax",
   "version": "0.1.0",
   "description": "Promise based AJAX library",
-  "main": "pat-sajax.js",
+  "main": "dist/pat-sajax.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jbankester/pat-sajax.git"
